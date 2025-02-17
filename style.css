@@ -1,0 +1,43 @@
+body {
+    background-color: black;
+}
+
+#image {
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 200px;
+    border: 5px solid white;
+}
+
+img {
+    width: 100%;
+}
+
+#text {
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: white;
+    text-align: center;
+    font-size: 9pt;
+}
+
+p {
+    font-style: italic;
+}
+
+#audio {
+    width: 50%;
+    margin-top: 20px;
+    margin-left: 25%;
+}
+
+audio {
+    width: 100%;
+}
+
+h2 {
+    color: orange;
+    text-align: center;
+    font-size: 12pt;
+}
